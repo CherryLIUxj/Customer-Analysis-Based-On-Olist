@@ -10,7 +10,7 @@ The data was provided by Olist, containing multiple datasets that can be joined 
 
 The motivation behind choosing this particular topic stems from the recognition of customers as the lifeblood of any e-commerce platform. In today's highly competitive digital marketplace, understanding customer behavior and value is vital and paramount. We were particularly drawn to the challenge of unlocking the potential within customer data, mainly in three aspects:  
 * Customer EDA: By exploring and understanding the underlying patterns in customer behaviors, we can provide a general overview of the Olist e-commerce data and uncover areas of improvement within the platform, primarily based on customer geolocation distribution and customer purchase preference.  
-* Customer Segmentation: By segmenting customers into meaningful groups based on their transactional behavior, we can enable targeted marketing efforts and more efficient allocation of resources, improving personalized customer experience.
+* Customer Segmentation: By segmenting customers into meaningful groups based on their transactional behavior, we can enable targeted marketing efforts and more efficient allocation of resources, improving personalized customer experience. 
 
 ![Problem Schema](images/olist_problem_schema.png) 
 
