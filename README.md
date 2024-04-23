@@ -12,9 +12,28 @@ The motivation behind choosing this particular topic stems from the recognition 
 * Customer EDA: By exploring and understanding the underlying patterns in customer behaviors, we can provide a general overview of the Olist e-commerce data and uncover areas of improvement within the platform, primarily based on customer geolocation distribution and customer purchase preference.  
 * Customer Segmentation: By segmenting customers into meaningful groups based on their transactional behavior, we can enable targeted marketing efforts and more efficient allocation of resources, improving personalized customer experience. 
 
-![Problem Schema](images/olist_objective_schema.png) 
+![Objective Schema](images/olist_objective_schema.png) 
 
 To sum up, this project is driven by the desire to derive data-driven solutions that enable the e-commerce platform to not only survive but thrive in the competitive landscape. Through this analysis, we hope to contribute to the development of a more customer-centered platform that values and leverages the power of its customer data to drive decisions and strategies.  
+
+## RFM Modeling
+
+Clustered customer Recency, Frequency and Monetary values respectively using k-means and generated overall score ranging from 0 to 6. Grouped customers into 6 RFM segments and summarized corresponding marketing strategies.
+
+![RFM Profiles](images/rfm_profile) 
+![RFM Strategies](images/rfm_strategy) 
+
+## Customer Segmentation
+
+Clustered customers using k-means based on all features with skillful preprocessing methods-- RFM, review features, payment method features, and product preference features. Resulted in 3 general segments of customers and enabled tailored marketing strategies.
+
+![Segmentation Profiles](images/general_profile) 
+![Segmentation Strategies](images/general_strategies) 
+
+
+
+
+
 
 
 
