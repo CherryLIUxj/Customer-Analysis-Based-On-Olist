@@ -20,15 +20,15 @@ To sum up, this project is driven by the desire to derive data-driven solutions 
 
 Clustered customer Recency, Frequency and Monetary values respectively using k-means and generated overall score ranging from 0 to 6. Grouped customers into 6 RFM segments and summarized corresponding marketing strategies.
 
-![RFM Profiles](images/rfm_profile) 
-![RFM Strategies](images/rfm_strategy) 
+![RFM Profiles](images/rfm_profile.png) 
+![RFM Strategies](images/rfm_strategy.png) 
 
 ## Customer Segmentation
 
 Clustered customers using k-means based on all features with skillful preprocessing methods-- RFM, review features, payment method features, and product preference features. Resulted in 3 general segments of customers and enabled tailored marketing strategies.
 
-![Segmentation Profiles](images/general_profile) 
-![Segmentation Strategies](images/general_strategies) 
+![Segmentation Profiles](images/general_profile.png) 
+![Segmentation Strategies](images/general_strategies.png) 
 
 
 
